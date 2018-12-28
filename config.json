@@ -1,0 +1,45 @@
+{
+	"local": {
+		"httpEndpoint": "http://127.0.0.1:8888",
+		"chainId": "",
+		"accounts": [
+			{
+				"accountName": "",
+				"publicKey":"",
+				"privateKey": ""
+			}
+		]
+	},
+	"testnet": {
+		"httpEndpoint": "http://testnet.fibos.fo:8870",
+		"chainId": "68cee14f598d88d340b50940b6ddfba28c444b46cd5f33201ace82c78896793a",
+		"accounts": [
+			{
+				"accountName": "4wx3sylbxx4r",
+				"publicKey":"FO7jmieDZ8bVfZtJYwyKmWQuD5FAX2ZZL781EDHxPw4pqq1TZ21q",
+				"privateKey": "5KSeDUmu35ciaL94HFAzc8e9o8SFoc9gQMbmnpWnET2NcCDK75P"
+			},
+			{
+				"accountName": "hn5dmiunjwxh",
+				"publicKey":"FO5RWSZtcrcwChx9fmyr9xAQk26mgVuuhc9EQ5UZXgtjWUMC1qdi",
+				"privateKey": "5JAUTSxbx8QdAQpjn736EFGnXrL4VsW3iaKBsxzLAoNq9bK571L"
+			},
+			{
+				"accountName": "jv3hujsug1tn",
+				"publicKey":"FO74bAbD2yY6k5GfNGVwqDaCfjeNart5jEY2BSPgTWJYGczYbKdK",
+				"privateKey": "5Jyw86pKCdembxLr1EjMtSrvE781gLcL93tY1xR3Hq2F7eouRW5"
+			}
+		]	
+	},
+	"mainnet": {
+		"httpEndpoint": "http://to-rpc.fibos.io:8870",
+		"chainId": "6aa7bd33b6b45192465afa3553dedb531acaaff8928cf64b70bd4c5e49b7ec6a",
+		"accounts": [
+			{
+				"accountName": "",
+				"publicKey":"",
+				"privateKey": ""
+			}
+		]
+	}
+}

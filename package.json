@@ -1,0 +1,13 @@
+{
+  "name": "multisig",
+  "version": "1.0.0",
+  "description": "multisig template for FIBOS/EOS",
+  "repository": "",
+  "keywords": "",
+  "author": "luoyhang003",
+  "license": "ISC",
+  "dependencies": {
+	"ascii-table": "0.0.9",
+	"fibos.js": "0.3.1"
+  }
+}
